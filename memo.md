@@ -23,3 +23,11 @@ codesandbox 上だと、一度別のブランチ扱いで、commit するとき�
 Vim のキーバインド設定にしてる
 
 保存時に自動整形が楽なのか、どうなのか（いまは楽）
+
+## GitHub 上の URL 操作
+
+`github.com` のところを`githubbox.com` にすると
+
+codesandbox に飛ぶ
+
+https://github.com/dferber90/githubbox
